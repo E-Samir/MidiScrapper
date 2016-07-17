@@ -1,0 +1,4 @@
+scrapy
+HTMLParser
+BeautifulSoup
+scrapy-splash
